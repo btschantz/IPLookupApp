@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_127358_iplookup_ipaddressinfo</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-23 01:16:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c1dc85cbdb211300aaefd170cf9619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_127358_iplookup_ipaddressinfo</sys_name>
+        <sys_package display_value="IPLookup" source="x_127358_iplookup">03253db1db111300aaefd170cf96196d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IPLookup">03253db1db111300aaefd170cf96196d</sys_scope>
+        <sys_update_name>ua_table_licensing_config_c1dc85cbdb211300aaefd170cf9619c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-23 01:16:37</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
